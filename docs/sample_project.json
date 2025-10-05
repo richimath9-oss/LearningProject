@@ -1,0 +1,11 @@
+{
+  "name": "Customer Onboarding Automation",
+  "industry": "FinTech",
+  "business_problem": "Manual onboarding causing delays and compliance risk",
+  "goals": "Automate KYC steps, reduce processing time by 40%",
+  "stakeholders": "Product, Compliance, Engineering, Operations",
+  "timelines": "Pilot in Q3, full launch Q4",
+  "documents": [
+    "docs/sample_reference.txt"
+  ]
+}
