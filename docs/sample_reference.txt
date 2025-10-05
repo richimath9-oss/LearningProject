@@ -1,0 +1,1 @@
+Customer onboarding currently involves manual document verification across three systems. Target state aims to centralize data capture and integrate third-party KYC services. Compliance requires full audit trail and GDPR alignment. Operations expect dashboards for monitoring SLA adherence.
